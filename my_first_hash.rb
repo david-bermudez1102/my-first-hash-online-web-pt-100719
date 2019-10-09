@@ -1,5 +1,6 @@
 def my_hash
   hash = { "David" => {:age => 23, :height => 6}, "Ron" => {:age => 28, :height => 6.1}}
+  hash
 end
 
 
