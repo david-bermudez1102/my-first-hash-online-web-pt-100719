@@ -1,11 +1,11 @@
 def my_hash
-  hash = { 
+  hash = {
     "David" => {
-      :age => 23, 
+      :age => 23,
       :height => 6
       },
     "Ron" => {
-      :age => 28, 
+      :age => 28,
       :height => 6.1
       }
     }
